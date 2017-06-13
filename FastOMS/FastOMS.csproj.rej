@@ -1,0 +1,9 @@
+diff a/FastOMS/FastOMS/FastOMS.csproj b/FastOMS/FastOMS/FastOMS.csproj	(rejected hunks)
+@@ -116,7 +116,6 @@
+     <Compile Include="InfrastructureElements\InfraInterfaces.cs" />
+     <Compile Include="InfrastructureElements\InfraObjects.cs" />
+     <Compile Include="Preferences\UserSettings.cs" />
+-    <Compile Include="Preferences\Level2Settings.cs" />
+     <Compile Include="UI\Controls\OrderManagementGrid.cs">
+       <SubType>UserControl</SubType>
+     </Compile>

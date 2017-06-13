@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "marketdatastorage",
+  "private_key_id": "f8ae20575eaaf0c7debb7ab71bd542f524aa1331",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCaERE1fleZ6I8I\naA3sUN0GzFKYisxYpIU+RWmsY8EGRY3zG66ylvV/lEPYb4suTEPHH5Ucw/PsMJjh\nSO1D7mH7M3Bx/D7htztaH8TZKkbZHFhbdBGTVyFFwGB8zpNRIg1WEwUx9KNTPZf1\nUv9HXpxM7rZovz+zGkDeee0oNQ/z+tLZq8PxcsS/yqbj3Qh8g755TntxF4vaNSTk\njxi4B7uq+Y1i+erhbrTXZvLZ3zDd7gWEnubR6CPc1pIRK/FEad7k4ubX+Kih3qHE\nEbq5vv7tWb4hkbMF2lyoNXKcYllZt76sw56mve6HmGkl+wU8Ve2BUvYLzkjQb8Dr\nrzfyFGSbAgMBAAECggEAHmpEJXVdweqhYh14sjB8kf0ASVENamqAS3zUkc3Xq29L\nyLSsVmFq8dbJVg8fQPKZZtQbUeR1YSlu5PrKrGCBQ2AyUK5lk5Xix7YB3IV2GyJ3\nZwaQ+a93yBdkdP8rIhdA3r8+hVAwdhxwxWOvNd29qYpuxFsNLkR+je0wHoHrNlT9\npQKV6DvKpwcJ4pF7tOZ0WMakmR+PkLLJgZKdu+kh5GDftZsYT6ZpO8oEIS3KApvO\ncEpAfbPGCccZ8+hiiIvYtYLzdm4ydqPawQsXN+TCWlotP/aDSOMaqKb6O6eUWBLJ\ncivIQp2/2E7MRhfn+5trbc3aaaBxs3yRSNspELNkcQKBgQDHqSTbDadP4YAi6GWw\nDJK3xlwDz8jSRJHS2DkXondcTTO0cxpXW6JLZobidg+cU3dkEYkld3sPg+LzqPXC\nD5du++VtWEx8Tv/PhNrw2POi7BFgA85G0x6S+6yxm8E3+2LPug/IRZKIa0WZlBpW\nkCp9jv5n5xfImv/JtpM0CovfjwKBgQDFilqb50h9oyyy4m3DZX2vS/UrsYeJ5Lz1\nwYo3F2ghXVKHaAqsXCcs+Ah4U091MN96tJCxuQBMJ57lxwXRKWC3091cgPIU4TWe\nHG6fFHAjUGEb3iJVnRlZIdY4lKMwLQBBhMhyVIuh02CIAOq7gQHJHudyfe8Qfppp\noBtiNeEkNQKBgBYs/DH0R0QBCMlXxIuUKeuNdYTa3DQ2d3fSmiy818MBtB9ztVZE\nkDcNsSeP81Xqk1Ui+XeW2K01ecyUVI90Sd6Czc2iRAR+hb0XxXWAszbCP3/JjGyj\nYD71Aw5K/V/pZOUrhjs5Nvg96eIP6Aj7RCzj5+/EZAjc5lISHDFohnaTAoGBAIcP\n/r3D1+uXCrPQXy4PEW0uqRXTzxE4JP5+8sqSJW9SiF/uggWxCFQVzmy+wYAmB1a1\naI0rKYnoORtwBYkqGmf14s8hluMxzGArnnMEHVv31D2ilqUkwbUQjpCnCCCjVB53\n9Dk/lyzxAnpa7iN/pEHn8GV2t2L2vQrlHnP61NHVAoGBAIGpdhlNpIkn40P7qVHP\nLbEoJIDGtJtOQKQO5w8wA++cDx5ynFJRmYNZ0VaWjteW3g84ryqFRTLh2DeCkB6/\nlNI2P4obYBrj8iqcHDalTK5+IljtGc/2ZkxWy5Y5bK1CUhvHAO6TXB18xNpgZlC6\n1gIDTjMkIimpS3ig4p1ny0Us\n-----END PRIVATE KEY-----\n",
+  "client_email": "marketdatastorage@marketdatastorage.iam.gserviceaccount.com",
+  "client_id": "112318566686444388573",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/marketdatastorage%40marketdatastorage.iam.gserviceaccount.com"
+}
